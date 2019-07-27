@@ -1,6 +1,6 @@
 # vue-books
 
-> 基于v制作的IT 书籍网站
+> 基于vue制作的IT 书籍网站
 
 ## Build Setup
 
