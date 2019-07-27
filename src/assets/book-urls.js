@@ -15,6 +15,7 @@ export default {
         { 'name': '高性能MySQL(第3版).azw3', 'url': 'https://allanhao.com/books/高性能MySQL(第3版).azw3' },
     ],
     'dataStructure': [
-        { 'name': '大话数据结构.azw3', 'url': 'https://allanhao.com/books/大话数据结构.azw3' }
+        { 'name': '大话数据结构.azw3', 'url': 'https://allanhao.com/books/大话数据结构.azw3' },
+        { 'name': '算法图解 - [美] Aditya Bhargava.mobi', 'url': 'https://books.allanhao.com/books/算法图解 - [美] Aditya Bhargava.mobi' }
     ]
 }
