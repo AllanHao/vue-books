@@ -22,7 +22,7 @@
 </template>
 
 <script>
-  import books from '../static/book-urls'
+  import books from './assets/book-urls'
   export default {
     name: 'App',
     data () {
@@ -58,8 +58,8 @@
     padding: 0;
   }
   li {
-    display: inline-block;
-    margin: 0 10px;
+    display: block;
+    margin: 10px 10px;
   }
   a {
     color: #42b983;
