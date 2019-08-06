@@ -11,3 +11,7 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+docs/static/css/app.cc04f7dc23510bddcb01e0a200edef56.css.map
+docs/static/js/app.2840e3e4988f8d692136.js.map
+docs/static/js/manifest.2ae2e69a05c33dfc65f8.js.map
+docs/static/js/vendor.f61b7a5b2248c2ea1bdc.js.map
